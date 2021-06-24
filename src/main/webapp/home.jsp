@@ -113,7 +113,7 @@ footer{
 							<input type = "hidden" name = "id" value = "${employee.getId()}">
 							<input type = "hidden" name = "username" value = "${username}">
 							<button type="submit" class="btn" style="margin: -8px;">
-							<span class="fas fa-edit" style="color: gray;"></span>
+							<span class="fas fa-edit" style="color: light-gray;"></span>
 							</button>
 						</form>
 					</td>
