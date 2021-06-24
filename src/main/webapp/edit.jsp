@@ -12,7 +12,7 @@
 <title>edit</title>
 <style>
 .container {
-	border-radius: 5px;
+	border-radius: 6px;
 	background-color: #F5F8FB;
 	padding: 20px;
 }
