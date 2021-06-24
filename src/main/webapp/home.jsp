@@ -71,7 +71,7 @@ footer{
 				</div>
 			</li>	
 			<li class="nav-item">
-				<div style="margin-left: 420px; margin-top: 10px;color: #f0ad4e;">	
+				<div style="margin-left: 420px; margin-top: 10px;color: white;">	
          			<span class="fas fa-user" ></span>
          			<b style="color:#f0ad4e;"><c:out value = "${username}"/></b> 
 				</div>
